@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo=TRUE, error=FALSE)
 
 # Introduction
 
-This is an initial Exploratory Data Analysis for the [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) competition with [tidy R](http://tidyverse.org/) and [ggplot2](http://ggplot2.tidyverse.org/).
+This is an initial Exploratory Data Analysis for the [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) competition with [tidy R](http://tidyverse.org/) and [ggplot2](http://ggplot2.tidyverse.org/). 
 
 The aim of this challenge is to forecast more accurate product sales for the Ecuadorian supermarket chain [Corporación Favorita](http://www.corporacionfavorita.com/).
 
