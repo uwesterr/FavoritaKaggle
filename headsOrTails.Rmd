@@ -17,7 +17,7 @@ output:
 knitr::opts_chunk$set(echo=TRUE, error=FALSE)
 ```
 
-# Introduction
+# Introduction 
 
 This is an initial Exploratory Data Analysis for the [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) competition with [tidy R](http://tidyverse.org/) and [ggplot2](http://ggplot2.tidyverse.org/). 
 
